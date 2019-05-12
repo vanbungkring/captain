@@ -1,5 +1,5 @@
 
-import app from "./core/app";
+import app from "./core/App";
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {

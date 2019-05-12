@@ -1,11 +1,9 @@
 class AppPresenter {
-    constructor() {
-    }
     ping() {
         return "Pong";
     }
     healthCheck() {
-        return "All Cool";
+        return "This is Healthcheck";
     }
 }
 export default AppPresenter;

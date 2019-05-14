@@ -1,4 +1,5 @@
 class AppPresenter {
+    constructor() {}
     ping() {
         return "Pong";
     }
